@@ -12,6 +12,13 @@ The project follows a complete analytics workflow starting from data cleaning an
 
 ---
 
+## 📊 Dashboard Preview
+
+![Customer Shopping Behavior Dashboard](dashboard.png)
+
+---
+
+
 # 🎯 Business Problem
 
 A leading retail company wants to better understand customer shopping behavior to improve sales, customer satisfaction, and long-term customer loyalty.
