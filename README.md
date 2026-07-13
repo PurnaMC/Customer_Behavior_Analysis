@@ -171,27 +171,26 @@ Based on the analysis:
 
 ## 📁 Repository Structure
 
-```
-Customer-Shopping-Behavior-Analysis
+```text
+customer-shopping-behavior-analysis
 │
 ├── README.md
-├── requirements.txt
-├── .gitignore
 │
 ├── data
 │   └── customer_shopping_behavior.csv
 │
-├── notebooks
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
+├── docs
+│   └── business_problem_document.pdf
 │
-├── sql
-│   └── customer_behavior_sql_queries.sql
+├── notebooks
+│   └── customer_shopping_behavior_analysis.ipynb
 │
 ├── powerbi
-│   └── customer_behavior_dashboard.pbix
+│   ├── customer_behavior_dashboard.pbix
+│   └── dashboard.png
 │
-└── docs
-    └── Business_Problem_Document.pdf
+└── sql
+    └── customer_behavior_sql_queries.sql
 ```
 
 ---
