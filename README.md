@@ -4,7 +4,7 @@ An end-to-end Data Analytics project that analyzes customer shopping behavior us
 
 ---
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes customer shopping behavior using transactional retail data containing **3,900 customer purchase records**. The objective is to transform raw customer data into meaningful business insights through data preparation, SQL analysis, and interactive dashboards.
 
@@ -19,7 +19,7 @@ The project follows a complete analytics workflow starting from data cleaning an
 ---
 
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 A leading retail company wants to better understand customer shopping behavior to improve sales, customer satisfaction, and long-term customer loyalty.
 
@@ -37,7 +37,7 @@ The insights generated help support better marketing strategies and business dec
 
 ---
 
-# 📂 Dataset Summary
+## 📂 Dataset Summary
 
 **Dataset Size**
 
@@ -69,7 +69,25 @@ The insights generated help support better marketing strategies and business dec
 
 ---
 
-# 🔄 Project Workflow
+## 📊 Dashboard Highlights
+
+- Total Customers
+- Average Purchase Amount
+- Average Review Rating
+- Revenue by Product Category
+- Sales by Product Category
+- Revenue by Age Group
+- Sales by Age Group
+- Customer Subscription Distribution
+- Interactive Filters
+  - Subscription Status
+  - Gender
+  - Product Category
+  - Shipping Type
+
+---
+
+## 🔄 Project Workflow
 
 ```
 Raw Dataset
@@ -95,7 +113,7 @@ Business Insights & Recommendations
 
 ---
 
-# 🐍 Data Preparation using Python
+## 🐍 Data Preparation using Python
 
 The dataset was prepared using Python by performing:
 
@@ -109,7 +127,7 @@ The dataset was prepared using Python by performing:
 
 ---
 
-# 🗄️ Business Analysis using SQL
+## 🗄️ Business Analysis using SQL
 
 SQL was used to answer business questions including:
 
@@ -126,7 +144,7 @@ SQL was used to answer business questions including:
 
 ---
 
-# 📊 Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The Power BI dashboard presents business insights through interactive visualizations including:
 
@@ -139,7 +157,7 @@ The Power BI dashboard presents business insights through interactive visualizat
 
 ---
 
-# 💡 Business Recommendations
+## 💡 Business Recommendations
 
 Based on the analysis:
 
@@ -151,7 +169,7 @@ Based on the analysis:
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 ```
 Customer-Shopping-Behavior-Analysis
@@ -178,7 +196,7 @@ Customer-Shopping-Behavior-Analysis
 
 ---
 
-# 🚀 How to Run
+## 🚀 How to Run
 
 ### Clone the repository
 
@@ -225,7 +243,7 @@ Refresh the data connection if required.
 
 ---
 
-# 📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 
 - Data Cleaning
 - Data Preparation
@@ -239,15 +257,8 @@ Refresh the data connection if required.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Mallula Purna Chandra**
 
-**Tools & Skills**
-
-- SQL
-- Python
-- PostgreSQL
-- Power BI
-- Pandas
-- Data Analytics
+GitHub: https://github.com/PurnaMC.0
