@@ -58,14 +58,14 @@ The insights generated help support better marketing strategies and business dec
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
-- PostgreSQL
-- SQL
+- SQL (PostgreSQL)
 - Power BI
 - Jupyter Notebook
+- Microsoft Excel
 
 ---
 
