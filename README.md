@@ -146,7 +146,7 @@ SQL was used to answer business questions including:
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard presents business insights through interactive visualizations including:
+The Power BI dashboard provides an interactive overview of customer shopping behavior through KPI cards, category-wise analysis, age group analysis, and interactive slicers.
 
 - Revenue Analysis
 - Customer Segmentation
@@ -203,12 +203,6 @@ customer-shopping-behavior-analysis
 git clone https://github.com/PurnaMC/customer-shopping-behavior-analysis.git
 ```
 
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Open Jupyter Notebook
 
 ```bash
@@ -217,7 +211,7 @@ jupyter notebook
 
 Open:
 
-- `Customer_Shopping_Behavior_Analysis.ipynb`
+- notebooks/customer_shopping_behavior_analysis.ipynb
 
 Execute the notebook to clean and prepare the dataset.
 
@@ -227,7 +221,7 @@ Execute the notebook to clean and prepare the dataset.
 - Execute the SQL queries available in:
 
 ```
-customer_behavior_sql_queries.sql
+sql/customer_behavior_sql_queries.sql
 ```
 
 ### Power BI Dashboard
@@ -235,7 +229,7 @@ customer_behavior_sql_queries.sql
 Open:
 
 ```
-customer_behavior_dashboard.pbix
+powerbi/customer_behavior_dashboard.pbix
 ```
 
 Refresh the data connection if required.
@@ -260,4 +254,4 @@ Refresh the data connection if required.
 
 **Mallula Purna Chandra**
 
-GitHub: https://github.com/PurnaMC.0
+GitHub: https://github.com/PurnaMC
