@@ -201,7 +201,7 @@ Customer-Shopping-Behavior-Analysis
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-github-username>/Customer-Shopping-Behavior-Analysis.git
+git clone https://github.com/PurnaMC/customer-shopping-behavior-analysis.git
 ```
 
 ### Install dependencies
